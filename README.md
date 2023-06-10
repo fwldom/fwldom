@@ -11,15 +11,8 @@
 
 <br>
 <h2 align="right">تماس با من ☎️:</h2>
-<a href="https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a> <a href="https://www.instagram.com/learnpy/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> <a href="https://twitter.com/imrrobat"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" alt="Twitter"></a> <a href="http://icodeacademy.ir/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/favorite.png?raw=true" alt="Website"></a>
+href="https://www.instagram.com/9_ahura/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> <a href="https://twitter.com/fwldom"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" alt="Twitter"></a> <a href="http://icodeacademy.ir/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/favorite.png?raw=true" alt="Website"></a>
 <br>
-
-
-<h2 align="right">🌞 الان مشغول این کارهام: </h2>
-<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
-<h4 align="right">⭐️ تدریس پایتون</h4>
-<h4 align="right">⭐️ ساخت ویدیو یوتوب</h4>
-<h4 align="right">⭐️ مشاوره برنامه‌نویسی</h4>
 
 
 
