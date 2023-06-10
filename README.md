@@ -7,8 +7,8 @@
 
 <h2 align="right">🎓:</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)        
+[![C#](https://img.shields.io/badge/C%23-3670A0?style=for-the-badge&logo=C%23&logoColor=000000)](https://github.com/fwldom)
 
 <br>
 <h2 align="right">تماس با من ☎️:</h2>
