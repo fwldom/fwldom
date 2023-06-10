@@ -11,8 +11,8 @@
 [![C#](https://img.shields.io/badge/C%23-3670A0?style=for-the-badge&logo=C%23&logoColor=000000)](https://github.com/fwldom)
 
 <br>
-<h2 align="right">تماس با من ☎️:</h2>
-href="https://www.instagram.com/9_ahura/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> <a href="https://twitter.com/fwldom"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" alt="Twitter"></a> <a href="http://icodeacademy.ir/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/favorite.png?raw=true" alt="Website"></a>
+<h2 align="right"> ☎️:</h2>
+href="https://twitter.com/fwldom"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" alt="Twitter"></a> <a 
 <br>
 
 
