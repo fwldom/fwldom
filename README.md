@@ -25,6 +25,6 @@
 <h2 align="right">☎️</h2>
 <h2 align="right">Email : fwldomp@gmail.com</h2>
 <h2 align="right">Twitter : @Fwldom</h2>
-<h2 align="right">Twitter : @Fwldom1</h2>
+<h2 align="right">Telegram : @Fwldom1</h2>
 
 
