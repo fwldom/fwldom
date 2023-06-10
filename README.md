@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 <h2 align="center">سلام 👋 من آقای رباتم 🤖</h2>
-<p align="center">برنامه‌نویس پایتونم 🐍 و دوست دارم به همه یادش بدم 🎯 یوتوبر هم هستم 💻 و خلاصه عاشق دنیای کامپیوترها ☺️❤️</p>
+<p align="center">i am a Programmer Python And C# And HTML$CSS ☺️❤️</p>
 
 <h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
