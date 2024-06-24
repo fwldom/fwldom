@@ -1,0 +1,93 @@
+body {
+  background: url('data:image/svg+xml;charset=utf-8,<svg width="1" height="1" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" style="fill:rgba(0,54,255,.13)"/></svg>');
+  background-color: black;
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 50 50' style='enable-background:new 0 0 50 50%3B' xml:space='preserve'%3E%3Cstyle type='text/css'%3E.st1%7Bopacity:0.7%3Bfill:%23FFFFFF%3B%7D.st3%7Bopacity:0.1%3Bfill:%23FFFFFF%3B%7D%3C/style%3E%3Ccircle class='st3' cx='4' cy='14' r='1'/%3E%3Ccircle class='st3' cx='43' cy='3' r='1'/%3E%3Ccircle class='st3' cx='31' cy='30' r='2'/%3E%3Ccircle class='st3' cx='19' cy='23' r='1'/%3E%3Ccircle class='st3' cx='37' cy='22' r='1'/%3E%3Ccircle class='st3' cx='43' cy='16' r='1'/%3E%3Ccircle class='st3' cx='8' cy='45' r='1'/%3E%3Ccircle class='st3' cx='29' cy='39' r='1'/%3E%3Ccircle class='st3' cx='13' cy='37' r='1'/%3E%3Ccircle class='st3' cx='47' cy='32' r='1'/%3E%3Ccircle class='st3' cx='15' cy='4' r='2'/%3E%3Ccircle class='st3' cx='9' cy='27' r='1'/%3E%3Ccircle class='st3' cx='30' cy='9' r='1'/%3E%3Ccircle class='st3' cx='25' cy='15' r='1'/%3E%3Ccircle class='st3' cx='21' cy='45' r='2'/%3E%3Ccircle class='st3' cx='42' cy='45' r='1'/%3E%3C/svg%3E");
+  background-position: 0px 0px;
+  animation: animatedBackground 5s linear infinite;
+}
+body >a, body>a:visited {
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+}
+* {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+@keyframes animatedBackground {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 0px 1500px;
+  }
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b562d6;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9a17ce;
+  transition: 0.3s;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#ProfSkill {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+#ProLangs {
+  flex: 2;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  flex: 1 0 25%;
+  position: relative;
+  background-color: transparent;
+  height: 50px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#ProLangs i {
+  border: 1.7px solid rgba(200, 137, 230, .637) !important;
+  border-radius: 5px !important;
+  box-shadow: 4px 5px 4px 3px rgba(89,4,168,.137)!important;
+  display: table !important;
+  font-size: 4.5em !important;
+  margin: 15px !important;
+  opacity: .93 !important;
+  overflow: hidden !important;
+  padding: 10px !important;
+  text-align: center !important;
+  transition: all .4s ease 0s !important;
+  vertical-align: middle !important;
+}
+@media screen and (max-width: 700px) {
+  #Project {
+    flex: 1 0 50%;
+    height: 750px;
+  }
+}
