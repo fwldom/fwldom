@@ -4,6 +4,7 @@
 
 ## Connect with me:
 <p align="left">
+<a href="mailto:fwldom@duck.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://twitter.com/fwlodm" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Fwldom" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fwl-dom-785876270" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="fwl-dom-785876270" height="30" width="40" /></a>
 </p>
